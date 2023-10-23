@@ -9,3 +9,5 @@
 ### Leetcode https://leetcode.cn/u/melancholyastronaut/
 
 ### bilibili https://space.bilibili.com/3493291582556482
+
+### 在找一份合适的前端工作 我的技术栈 React + Typescript + css modules
