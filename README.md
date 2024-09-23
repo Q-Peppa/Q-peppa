@@ -8,6 +8,5 @@
 
 ### Leetcode https://leetcode.cn/u/melancholyastronaut/
 
-### bilibili https://space.bilibili.com/3493291582556482
 
 ### 技术栈 React + Typescript
