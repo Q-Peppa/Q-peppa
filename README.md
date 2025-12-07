@@ -6,4 +6,4 @@
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=Less)
 
 #### 在哪里找到我 ↓
-#####  [LeetCode TOP14% ](https://leetcode.cn/u/melancholyastronaut/)
+#####  [LeetCode](https://leetcode.cn/u/melancholyastronaut/)
